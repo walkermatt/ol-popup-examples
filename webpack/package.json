@@ -11,7 +11,7 @@
     "webpack": "^3.3.0"
   },
   "dependencies": {
-    "ol": ">4.0.0",
-    "ol-popup": ">=3.0.0"
+    "ol": ">=5.0.0",
+    "ol-popup": "git+https://github.com/walkermatt/ol-popup.git#ol5"
   }
 }
