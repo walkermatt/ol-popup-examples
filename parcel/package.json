@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "ol": ">=5.0.0",
-    "ol-popup": "git+https://github.com/walkermatt/ol-popup.git#ol5"
+    "ol-popup": ">=4.0.0"
   }
 }
